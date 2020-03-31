@@ -7,10 +7,6 @@
 <head>
     <meta charset="utf-8"/>
     <title>Guilherme Casagrande</title>
-
-    <link rel="stylesheet" type="text/css" href="_css/estilo.css"/>
-    <link rel="stylesheet" href="_css/media.css">
-
 </head>
 <script language="JavaScript" src="_javascript/funcoes.js">
 </script>
