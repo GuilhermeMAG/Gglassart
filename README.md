@@ -88,34 +88,9 @@
 <h3>O que você pode fazer com o Google Glasses</h3>
 <p>O vídeo de divulgação do Google mostra que você pode se transformar em uma espécie de “super-<wbr/>humano”, já que o aparelho pode indicar a quantos metros você está de seu destino, se o metrô está aberto ou fechado, mostrar o clima, agenda e até mesmo permitir que você marque encontros apenas com comandos de voz.</p>
 
-    <div>
-
-        <video controls="controls" poster="_imagens/video-mini01.jpg">
-            <source src="_media/one-day.mp4" type="video/mp4"/>
-            <source src="_media/one-day.webm" type="video/webm"/>
-            <source src="_media/one-day.ogv" type="video/ogg"/>
-            Desculpe mas não foi possível carregar o vídeo.
-        </video>
-
-    </div>
-
 </article>
 </section>
 
-    <aside id="lateral">
-        <h1>Outras Notícias</h1>
-        <h2>Vídeo mais recente</h2>
-
-        <div>
-
-            <video id="filme02" controls="controls" poster="_imagens/video-mini02.jpg">
-                <source src="_media/how-it-feels.mp4" type="video/mp4"/>
-                <source src="_media/how-it-feels.webm" type="video/webm"/>
-                <source src="_media/how-it-feels.ogv" type="video/ogg"/>
-                Desculpe mas não foi possível carregar o vídeo.
-            </video>
-
-        </div>
 <h2>Novidades no Glass</h2>
 <p>O Google enfim revelou as especificações completas do Google Glass, e com ele uma surpresa ainda inédita no mercado: a gigante das buscas usará um sistema de áudio baseado na transdução por condução. Através das hastes dos óculos, o som será transmitido para o ouvido do usuário por meio de microvibrações em determinados ossos de sua cabeça, sem usar nenhum tipo de alto-falante.</p>
 
@@ -123,12 +98,6 @@
 
 </aside>
 
-    <footer id="rodape">
-
-        <p>  Copyright &copy; 2020 - Guilherme Casagrande &reg; <br/><br/>
-            <a href="https://www.facebook.com/Guiihmag30" target="_blank"> Facebook </a>
-            <a href="https://www.linkedin.com/in/guilherme-casagrande-771a27160/" target="_blank"> LinkedIn </a>
-            <a href="https://www.instagram.com/guiihmag_/?hl=pt-br" target="_blank"> Instagram </a>
 </p>
 </footer>
 
