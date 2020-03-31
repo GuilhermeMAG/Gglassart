@@ -16,14 +16,6 @@
 <div id="interface">
 
 <header id="cabecalho">
-
-<hgroup>
-
-<br/><br/>
-<h1>Guilherme Casagrande</h1>
-<h2> Desenvolvedor em Construção</h2>
-</hgroup>
-
 <img id="icone" src="_imagens/home.png"/>
 
 <nav id="menu">
