@@ -6,11 +6,7 @@
 
 <head>
     <meta charset="utf-8"/>
-    <title>Guilherme Casagrande</title>
 </head>
-<script language="JavaScript" src="_javascript/funcoes.js">
-</script>
-
 <body>
 
 <div id="interface">
