@@ -3,6 +3,8 @@
 I developed this website from scratch, using Html, Css and Javascript;
 I used google glass as an article for the site.
 
+https://alphamagtec.000webhostapp.com/
+
 <!DOCTYPE html>
 
 <html lang="pt-br">
