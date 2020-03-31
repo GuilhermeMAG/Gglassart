@@ -1,5 +1,8 @@
 # Gglassart.github.io
 
+I developed this website from scratch, using Html, Css and Javascript;
+I used google glass as an article for the site.
+
 <!DOCTYPE html>
 
 <html lang="pt-br">
