@@ -27,8 +27,7 @@ https://alphamagtec.000webhostapp.com/
     <li onmouseover="mudaFoto('_imagens/fotos.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="fotos.html">Fotos</a></li>
     <li onmouseover="mudaFoto('_imagens/multimidia.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="multimidia.html">Multimídia</a></li>
     <li onmouseover="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="fale-conosco.html">Fale conosco</a></li>
-    <li onmouseover="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="noviGlass">Fale conosco</a></li>
-</ul>
+    </ul>
 
 </nav>
 
