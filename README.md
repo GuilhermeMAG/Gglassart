@@ -27,6 +27,7 @@ https://alphamagtec.000webhostapp.com/
     <li onmouseover="mudaFoto('_imagens/fotos.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="fotos.html">Fotos</a></li>
     <li onmouseover="mudaFoto('_imagens/multimidia.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="multimidia.html">Multimídia</a></li>
     <li onmouseover="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="fale-conosco.html">Fale conosco</a></li>
+    <li onmouseover="mudaFoto('_imagens/contato.png')" onmouseout="mudaFoto('_imagens/home.png')"><a href="#noviGlass">Fale conosco</a></li>
 </ul>
 
 </nav>
@@ -84,7 +85,7 @@ https://alphamagtec.000webhostapp.com/
 </article>
 </section>
 
-<h2>Novidades no Glass</h2>
+<h2 id="#noviGlass">Novidades no Glass</h2>
 <p>O Google enfim revelou as especificações completas do Google Glass, e com ele uma surpresa ainda inédita no mercado: a gigante das buscas usará um sistema de áudio baseado na transdução por condução. Através das hastes dos óculos, o som será transmitido para o ouvido do usuário por meio de microvibrações em determinados ossos de sua cabeça, sem usar nenhum tipo de alto-falante.</p>
 
 <p>Além da surpresa do áudio, a tela montada a frente do olho do usuário também chamou atenção. Serão 640 x 360 pixels de resolução que, em proporção, equivaleria a um monitor de 25 polegadas de alta definição colocado a 2,5 metros de distância do espectador.</p>
